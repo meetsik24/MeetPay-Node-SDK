@@ -1,0 +1,22 @@
+{
+    "name": "meetpay-node-sdk",
+    "version": "1.0.0",
+    "description": "Node.js SDK for MeetPay payment integration",
+    "main": "MeetPay-NodeSDK.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "meetpay",
+        "payment",
+        "sdk"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.6.2",
+        "meetpay-node-sdk": "^1.0.0",
+        "qs": "^6.11.2"
+    }
+}
